@@ -19,6 +19,11 @@
             $('#carousel-marcas').carousel({
         	    interval: 3000
         	});
+        	$("li a").hover(function(){
+                $(".sub-menu").css("visibility", "visible");
+                }, function(){
+                $(".sub-menu").css("visibility", "hidden");
+            });
         });
 	</script>
 </body>

@@ -70,7 +70,6 @@ get_header(); ?>
     <section class="acerca-de diagonal-pos">
     	<div class="row margin-0">
     		<div class="col-md-9 col-md-offset-3 transparencia">
-    			<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-thn-blanco.png" style="float: right;" class="diagonal-neg"/>
     			<ul class="diagonal-neg">
     				<li>
     					<h4>¿QUIÉNES SOMOS?</h4>
